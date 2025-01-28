@@ -51,8 +51,8 @@
     "example:all": "npx tsx examples/all"
   },
   "dependencies": {
-    "ai": "^3.4.20",
-    "zod": "^3.23.8"
+    "ai": "^4.1.9",
+    "zod": "^3.24.1"
   },
   "devDependencies": {
     "@ai-sdk/openai": "^0.0.70",
